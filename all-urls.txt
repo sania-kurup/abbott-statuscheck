@@ -3,3 +3,4 @@ facebook.com
 http://3.94.52.186:8080/user/admin/
 http://www.youtube.com/saniakurup
 http://amazon.com
+https://www.globalpointofcare.abbott/en/
