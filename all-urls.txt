@@ -1,6 +1,6 @@
-https://www.google.com
-facebook.com
-http://3.94.52.186:8080/user/admin/
-http://www.youtube.com/saniakurup
-http://amazon.com
-https://www.globalpointofcare.abbott/en/
+https://www.testtargettreat.com/en/home.html
+https://www.testtargettreat.com/es/home.html
+https://www.testtargettreat.com/ko/home.html
+https://www.testtargettreat.com/pt/home.html
+https://www.testtargettreat.com/zh-hans/home.html
+https://www.testtargettreat.com/zh-hant/home.html
